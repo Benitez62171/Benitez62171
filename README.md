@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋
+Soy Jonathan Benitez estudio en la UNTREF
+Me gusta programar y jugar.
 
 <!--
 **Benitez62171/Benitez62171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
